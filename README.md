@@ -1,5 +1,6 @@
 # RW_SQL_Problems
-SQL Code Challenges from LinkedIn Learning Course: **Solve Real World Data Problems with SQL** by Jess Ramos
+
+Practice as part of the LinkedIn Learning Course: **Solve Real World Data Problems with SQL** by Jess Ramos
 
 ------>  Topics and Code Challenges. The instructions for the challenges may be founded in the files.  <------
 
